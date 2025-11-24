@@ -1,0 +1,47 @@
+{
+  "S90167": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Bleichestraße 9, 18209 Bad Doberan, Deutschland",
+    "receiver": "Karl Rudolph, Waldenburger Str. 27, 09212 Limbach-Oberfrohna, Deutschland",
+    "price": "2.600 €",
+    "description": "Hersteller: MZ<br>Typ: ETZ 251<br>Fahrgestelnummer: 2500029<br>Erstzulassung: 06/1990<br>KM laut Vorbesitzer: 35.300 km<br>Leistung: 15 kW (20 PS)<br>Hubraum: 250 cm³<br>Farbe: Blau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Karl Rudolph<br>Waldenburger Str. 27<br>09212 Limbach-Oberfrohna<br>Deutschland<br>Telefon: -",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "24.11.2025",
+    "deliveryDate": "28.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
